@@ -2,11 +2,9 @@ import { motion } from "framer-motion";
 
 export default function About() {
   const technicalSkills = [
-    "Language & Library/Frameworks: JavaScript/TypeScript (React.js/Next.js)",
-    "UI & Styling: ShadCN/UI, Ant Design, TailwindCSS, Sass",
-    "State Management: Redux Toolkit (RTK Query)",
-    "APIs: RESTful API, Fetch API, Axios",
-    "Tools & Workflow: Git, GitHub, Postman",
+    "Technical skills: ReactJS, NextJS, JavaScript, Typescript, Tailwind, Ant Design, Sass, Shacdn/ui.",
+    "Technical additional skills: Firebase, Git, Postman, etc.",
+    "Soft skills: Teamwork, Time Management, Flexibility, Adaptability.",
   ];
 
   const languageSkills = ["Vietnamese - Native language", "English - B1 Aptis"];

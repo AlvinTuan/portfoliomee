@@ -7,9 +7,11 @@ export default function Experience() {
       title: "Intern at VNPAY",
       period: "2023-2024",
       description: [
-        "Develop and optimize web interfaces with React, TypeScript, Sass, Ant Design.",
-        "Working with RESTful API, Redux to manage application state.",
+        "Develop and optimize web interfaces with React/Next, TypeScript, Sass, Ant Design.",
+        "Working with RESTful API, Redux (Redux Thunk) to manage application state.",
         "Collaborate with backend team and testers to test, debug and optimize performance.",
+        "Improved accessibility and ensured web pages were responsive to different devices.",
+        "Participate in development some internal company projects.",
       ],
     },
   ];

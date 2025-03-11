@@ -16,7 +16,7 @@ const roboto = Roboto({
 
 export const metadata: Metadata = {
   title: "Personal Portfolio",
-  description: "Front-end Developer & Data Science Enthusiast Portfolio",
+  description: "CV Online",
 };
 
 export default function RootLayout({

@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+import Image from "next/image";
 import Link from "next/link";
 import { FiGithub, FiHome, FiMail, FiPhone } from "react-icons/fi";
 
@@ -12,13 +13,13 @@ export default function Hero() {
         transition={{ duration: 0.5 }}
       >
         <div className="relative w-40 h-40 mx-auto mb-6 rounded-full overflow-hidden border-4 border-primary">
-          {/* <Image
-            src="https://via.placeholder.com/200x200"
+          <Image
+            src="/avatarletuana.jpg"
             alt="Profile Picture"
             fill
             className="object-cover"
             priority
-          /> */}
+          />
         </div>
 
         <h1 className="text-4xl md:text-5xl font-poppins font-bold mb-2">
